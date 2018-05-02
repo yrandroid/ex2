@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ex2</string>
+    <string name="Send">Send</string>
+    <string name="hint">Add a message</string>
+    <string name="page_title">My Own Chat</string>
+
+    <item name="visible" type="id"/>
+    <item name="masked" type="id"/>
+</resources>
